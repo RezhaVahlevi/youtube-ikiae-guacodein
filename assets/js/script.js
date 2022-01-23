@@ -1,5 +1,0 @@
-// SHOW MENU
-
-//HIDDEN MENU
-
-// SWIPER
